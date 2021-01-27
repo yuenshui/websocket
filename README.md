@@ -1,3 +1,5 @@
+fork from v1.4.2
+
 # Gorilla WebSocket
 
 [![GoDoc](https://godoc.org/github.com/gorilla/websocket?status.svg)](https://godoc.org/github.com/gorilla/websocket)
